@@ -13,7 +13,7 @@ This workshop is designed to introduce **data-centric AI** concepts and show how
 - Exploring advanced data curation and 3D visualization.
 
 ## 📥 Setup Instructions
-Before starting, ensure you have **Python 3.7+** installed and set up a virtual environment:
+Before starting, ensure you have **Python 3.11** installed and set up a virtual environment:
 
 ```bash
 pip install fiftyone
